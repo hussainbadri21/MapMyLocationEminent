@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapMyLocation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="gps_disabled_title">\"GPS\"</string>
+    <string name="gps_disabled">gps</string>
+    <string name="enable">enable</string>
+    <string name="cancel">cancel</string>
+</resources>
